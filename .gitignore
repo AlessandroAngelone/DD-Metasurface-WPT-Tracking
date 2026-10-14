@@ -1,0 +1,19 @@
+# File proprietari di simulazione EM (Altair FEKO) - Protetti per pubblicazione
+*.fek
+*.cfm
+*.str
+*.bof
+*.out
+
+# File CAD e Gerber grezzi (Protetti per IP)
+*.PrjPcb
+*.SchDoc
+*.PcbDoc
+*.gbr
+
+# File temporanei MATLAB e sistema
+*.asv
+*.m~
+*.mat
+.DS_Store
+Thumbs.db
