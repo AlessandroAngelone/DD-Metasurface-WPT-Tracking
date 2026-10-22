@@ -40,4 +40,4 @@ The prototype physically decouples sensing and power transfer onto two independe
 ## 4. Repository Structure
 * `/docs` — Full 5-page Technical Synthesis PDF and system figures.
 * `/matlab_processing` — Scripts for S-parameter parsing, PTE calculation, spatial LUT clustering, and 5-fold cross-validation.
-* `/firmware` — C/C++ microcontroller routines for serial communication and 25-channel DAC varactor bias actuation.
+* `/lab_photos` — Experimental setup and details
